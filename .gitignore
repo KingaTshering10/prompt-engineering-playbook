@@ -1,0 +1,20 @@
+# macOS and Windows metadata
+.DS_Store
+__MACOSX/
+._*
+Thumbs.db
+Desktop.ini
+
+# Temporary Office and editor files
+~$*
+*.tmp
+*.bak
+.vscode/
+.idea/
+
+# Local credentials and generated practice outputs
+.env
+.env.*
+*.key
+*.pem
+practice-output/
